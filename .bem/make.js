@@ -8,7 +8,7 @@ MAKE.decl('Arch', {
             'bem-bl': {
                 type: 'git',
                 url: 'git://github.com/bem/bem-bl.git',
-                treeish: '0.3'
+                treeish: 'i-bem__no-conflicts'
             }
         };
 
