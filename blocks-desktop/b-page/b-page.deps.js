@@ -3,7 +3,7 @@
         {
             block: 'i-bem',
             elem: 'dom',
-            mods: { init: 'auto' }
+            mods: { init: 'auto', conflicts: 'no' }
         }
     ]
 })

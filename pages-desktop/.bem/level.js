@@ -9,7 +9,8 @@ exports.getTechs = function() {
         'ie8.css': 'ie8.css',
         'ie9.css': 'ie9.css',
         'bemhtml.js': '../../bem-bl/blocks-common/i-bem/bem/techs/bemhtml.js',
-        'html': '../../bem-bl/blocks-common/i-bem/bem/techs/html'
+        'html': '../../bem-bl/blocks-common/i-bem/bem/techs/html',
+        'js': '../../bem-bl/blocks-common/i-bem/bem/techs/js.js'
     };
 };
 

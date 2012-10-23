@@ -10,24 +10,5 @@
         { elem: 'meta', attrs: { name: 'description', value: '' }},
         { elem: 'meta', attrs: { name: 'keywords', value: '' }}
     ],
-    content:[
-        {
-            block: 'header',
-            content: [
-                'header content goes here'
-            ]
-        },
-        {
-            block: 'content',
-            content: [
-                'main content'
-            ]
-        },
-        {
-            block: 'footer',
-            content: [
-                'footer content goes here'
-            ]
-        }
-    ]
+    content: { block: 'b-bla' }
 })
