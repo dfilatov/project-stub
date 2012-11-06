@@ -10,7 +10,7 @@ BEM.DOM.decl('b-bla', {
                     $.getScript('http://localhost:8321/pages-desktop/index/_index.js', function() {
                         //console.log(_BEM['321'].DOM.doc.find('.b-bla'));
                         console.log('before init');
-                        _BEM['321'].DOM.init(bem321);
+                        BEM.CONFLICTS_NO('321').DOM.init(bem321);
                     });
                     this.unbindFrom('click');
                 });
